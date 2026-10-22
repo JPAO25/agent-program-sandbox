@@ -1,3 +1,5 @@
 technologies:
   - name: Claude Sonnet
     version: claude-sonnet-5-5
+  - name: Claude Opus
+    version: claude-opus-5-5
